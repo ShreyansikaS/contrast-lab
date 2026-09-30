@@ -2,8 +2,6 @@
 
 A small tool that checks whether two colors are readable together, based on the WCAG 2.1 accessibility rules.
 
-Live demo: https://YOUR-USERNAME.github.io/contrast-lab/
-
 ## Why I made this
 I like projects where the math is simple but the result affects real people. Low contrast text is one of the most common accessibility problems on the web, and most designers check it with a browser plugin without knowing how the number is calculated. I wanted to build it from scratch so I understood the formula, and so I could export the colors straight into CSS.
 
